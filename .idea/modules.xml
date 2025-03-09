@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CreditCardAnalysis/.idea/CreditCardAnalysis.iml" filepath="$PROJECT_DIR$/../CreditCardAnalysis/.idea/CreditCardAnalysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/FlightCostPrediction.iml" filepath="$PROJECT_DIR$/.idea/FlightCostPrediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Intelligent_Email_Response_generator/.idea/Intelligent_Email_Response_generator.iml" filepath="$PROJECT_DIR$/../Intelligent_Email_Response_generator/.idea/Intelligent_Email_Response_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../My_practice_noteooks/.idea/My_practice_noteooks.iml" filepath="$PROJECT_DIR$/../My_practice_noteooks/.idea/My_practice_noteooks.iml" />
     </modules>
   </component>
 </project>
